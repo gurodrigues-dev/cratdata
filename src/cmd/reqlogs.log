@@ -1,0 +1,6 @@
+2022-10-07 20:35:51,141 INFO 210.175.21.132 200 https://api.movidesk.com/public/v1
+2022-10-07 20:35:52,175 INFO 210.175.21.132 404 HTTPSConnectionPool(host='votation.xyz', port=443): Max retries exceeded with url: /public/v1/01032004/GustavoRodrigueess (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f383920c8e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2022-10-07 20:37:02,218 INFO 210.175.21.132 200 https://api.movidesk.com/public/v1
+2022-10-07 20:37:03,523 INFO 210.175.21.132 404 HTTPSConnectionPool(host='votation.xyz', port=443): Max retries exceeded with url: /public/v1/01032004/GustavoRodrigueess (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb64c2c18e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+2022-10-07 20:39:36,840 INFO 210.175.21.132 200 https://api.movidesk.com/public/v1
+2022-10-07 20:39:37,939 INFO 210.175.21.132 404 HTTPSConnectionPool(host='votation.xyz', port=443): Max retries exceeded with url: /public/v1/01032004/GustavoRodrigueess (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0e7b988e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
